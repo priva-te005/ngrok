@@ -12,7 +12,7 @@ echo Pass: EAekra7595
 curl -O https://raw.githubusercontent.com/ealeech/ngrok/main/DisablePasswordComplexity.ps1 > out.txt 2>&1
 curl -o "C:\Users\Public\Dcurlesktop\Fast Config VPS.exe" https://raw.githubusercontent.com/ealeech/ngrok/main/FastConfigVPS_v5.1.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Winrar.zip" https://raw.githubusercontent.com/ealeech/ngrok/main/WinRAR.zip > out.txt 2>&1
-curl -o "C:\Users\Public\Desktop\vidly.zip" https://my.eagsite.workers.dev/0:/Estyak/Viddly-YouTubed.zip > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\vidly.zip" https://my.eagsite.workers.dev/0:/Estyak/Viddly%20YouTube.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\fab.zip" https://my.eagsite.workers.dev/0:/Estyak/fab.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Ub.xpi" https://addons.cdn.mozilla.net/user-media/addons/607454/ublock_origin-1.40.8-an+fx.xpi > out.txt 2>&1
 PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './DisablePasswordComplexitDisablePasswordComplexity.ps1y.ps1'" > out.txt 2>&1

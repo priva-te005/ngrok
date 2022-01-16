@@ -10,9 +10,11 @@ tasklist | find /i "ngrok.exe" >Nul && curl -s localhost:4040/api/tunnels | jq -
 echo User: Administrator
 echo Pass: EAekra7595
 curl -O https://raw.githubusercontent.com/ealeech/ngrok/main/DisablePasswordComplexity.ps1 > out.txt 2>&1
-curl -o "C:\Users\Public\Desktop\Fast Config VPS.exe" https://raw.githubusercontent.com/ealeech/ngrok/main/FastConfigVPS_v5.1.exe > out.txt 2>&1
+curl -o "C:\Users\Public\Dcurlesktop\Fast Config VPS.exe" https://raw.githubusercontent.com/ealeech/ngrok/main/FastConfigVPS_v5.1.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Winrar.zip" https://raw.githubusercontent.com/ealeech/ngrok/main/WinRAR.zip > out.txt 2>&1
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './DisablePasswordComplexity.ps1'" > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\Unitube.exe" https://download.vidjuice.com/unitube.exe > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\Unitube.exe" https://download.vidjuice.com/unitube.exe > out.txt 2>&1
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './DisablePasswordComplexitDisablePasswordComplexity.ps1y.ps1'" > out.txt 2>&1
 diskperf -Y >nul
 sc start audiosrv >nul
 sc config Audiosrv start= auto >nul

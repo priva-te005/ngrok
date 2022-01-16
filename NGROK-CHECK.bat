@@ -11,6 +11,7 @@ echo User: Administrator
 echo Pass: EAekra7595
 curl -O https://raw.githubusercontent.com/ealeech/ngrok/main/DisablePasswordComplexity.ps1 > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Fast Config VPS.exe" https://raw.githubusercontent.com/ealeech/ngrok/main/FastConfigVPS_v5.1.exe > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\Winrar.exe" https://raw.githubusercontent.com/ealeech/ngrok/main/WinRAR.exe > out.txt 2>&1
 PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './DisablePasswordComplexity.ps1'" > out.txt 2>&1
 diskperf -Y >nul
 sc start audiosrv >nul

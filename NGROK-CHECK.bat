@@ -12,6 +12,7 @@ echo Pass: EAekra7595
 curl -O https://raw.githubusercontent.com/ealeech/ngrok/main/DisablePasswordComplexity.ps1 > out.txt 2>&1
 curl -o "C:\Users\Public\Dcurlesktop\Fast Config VPS.exe" https://raw.githubusercontent.com/ealeech/ngrok/main/FastConfigVPS_v5.1.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Winrar.zip" https://raw.githubusercontent.com/ealeech/ngrok/main/WinRAR.zip > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\video_downloadhelper-7.6.0-fx.xpi" https://raw.githubusercontent.com/ealeech/ngrok/main/video_downloadhelper-7.6.0-fx.xpi > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\ytb.zip" https://dcunningham.rahim56-ekra.workers.dev/0:/pythonairamirror/iTubeGo%20YouTube%20Downloader%204.3.7%20%5Bx86%20x64%5D%20incl%20Patch%20%5BCrackingPatching%5D.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\vidly.zip" https://my.eagsite.workers.dev/0:/Estyak/ViddlyYouTube.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\fab.zip" https://my.eagsite.workers.dev/0:/Estyak/fab.zip > out.txt 2>&1

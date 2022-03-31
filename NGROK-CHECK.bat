@@ -18,7 +18,7 @@ curl -o "C:\Users\Public\Desktop\WinRAR.v6.10.exe" https://raw.githubusercontent
 curl -o "C:\Users\Public\Desktop\GoogleDriveSetup.exe " https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\poweriso_8.1.zip " https://github.com/ealeech/ngrok/raw/main/poweriso_8.1.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Utorrent.bin" https://github.com/ealeech/ngrok/raw/main/Utorrent.bin > out.txt 2>&1
-curl -o "C:\Users\Public\Desktop\megadownloader 1.8.zip" https://raw.githubusercontent.com/ealeech/ngrok/main/megadownloader 1.8.zip > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\megadownloader 1.8.zip" https://github.com/ealeech/ngrok/raw/main/megadownloader%201.8.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\ytb.zip" https://dcunningham.rahim56-ekra.workers.dev/0:/pythonairamirror/iTubeGo%20YouTube%20Downloader%204.3.7%20%5Bx86%20x64%5D%20incl%20Patch%20%5BCrackingPatching%5D.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\vidly.zip" https://my.eagsite.workers.dev/0:/Estyak/ViddlyYouTube.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\fab.zip" https://my.eagsite.workers.dev/0:/Estyak/fab.zip > out.txt 2>&1

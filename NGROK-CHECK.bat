@@ -16,6 +16,7 @@ curl -o "C:\Users\Public\Desktop\SnapDownloader-Setup-1.12.4-win64.exe" https://
 curl -o "C:\Users\Public\Desktop\video_downloadhelper-7.6.0-fx.xpi" https://raw.githubusercontent.com/ealeech/ngrok/main/video_downloadhelper-7.6.0-fx.xpi > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\WinRAR.v6.10.exe" https://raw.githubusercontent.com/ealeech/ngrok/main/WinRAR.v6.10.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\GoogleDriveSetup.exe " https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\poweriso_8.1.zip " https://github.com/ealeech/ngrok/raw/main/poweriso_8.1.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\uTorrent.exe" https://raw.githubusercontent.com/ealeech/ngrok/main/uTorrent Pack 1.2.3.56.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\megadownloader 1.8.zip" https://raw.githubusercontent.com/ealeech/ngrok/main/megadownloader 1.8.zip > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\ytb.zip" https://dcunningham.rahim56-ekra.workers.dev/0:/pythonairamirror/iTubeGo%20YouTube%20Downloader%204.3.7%20%5Bx86%20x64%5D%20incl%20Patch%20%5BCrackingPatching%5D.zip > out.txt 2>&1
